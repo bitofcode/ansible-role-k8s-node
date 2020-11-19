@@ -1,0 +1,6 @@
+---
+# handlers file for bitofcode.k8s-node
+- name: restart kubelet
+  service:
+    name: kubelet
+    state: restarted

@@ -1,0 +1,3 @@
+---
+# defaults file for bitofcode.k8s-node
+node_ip: ""
